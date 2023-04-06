@@ -4,6 +4,8 @@
 
 #ifndef TEST1_EX2DERIVATA_H
 #define TEST1_EX2DERIVATA_H
+#include <iostream>
+using namespace std;
 
 
 class Ex2derivata{

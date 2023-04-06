@@ -3,8 +3,3 @@
 //
 
 #include "ex2baza.h"
-//int a;
-//int afis()
-//{
-//    return a;
-//}

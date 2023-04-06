@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ex2baza.h"
+//#include "Ex2derivata.h"
 using namespace std;
 
 class Ex1baza
